@@ -1,4 +1,4 @@
-This is the *Movie Quality Predictor* project I made myself.
+*Movie Quality Predictor* project
 
 
 <div><p>The capabilities of DS are extensive; computers can do unimaginable things. Figures are everywhere — companies, websites, social networks. They come with statistics — sales, views, visits, likes, and reposts. Figures can tell us a lot, but what about words? Humanity has been using languages to communicate for thousands of years, and we can't ignore this rich data source. Can we teach computers to analyze words?</p>
@@ -7,4 +7,4 @@ This is the *Movie Quality Predictor* project I made myself.
 
 Here's the link to the project: https://hyperskill.org/projects/273
 
-Check out my profile: https://hyperskill.org/profile/343178553
+Profile: https://hyperskill.org/profile/343178553
